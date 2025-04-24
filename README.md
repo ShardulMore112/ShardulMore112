@@ -1,31 +1,31 @@
 <h1 align="center">Hi there, I'm Shardul 👋</h1>
 
 <p align="center">
-  <em>AI/ML Researcher | LLM & NLP Enthusiast | Deep Learning Explorer</em>
+  <em>AI/ML Student | LLM & NLP Enthusiast | Deep Learning Explorer</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Passionate about building and researching in **Artificial Intelligence**, with a focus on:
+- 🔭 I'm an AI/ML student deeply passionate about:
   - **Large Language Models (LLMs)**
   - **Natural Language Processing (NLP)**
   - **Generative AI**  
   - **Deep Learning & Transformers**
 
-- 🧠 I thrive on turning innovative ideas into intelligent systems, especially in the domains of:
-  - **Education-focused AI tools**
-  - **Human cognition and cryptographic reasoning through ML**
-  - **Real-world applications of LLMs & RAG architectures**
+- 🧠 I love applying what I learn to build intelligent systems, especially in areas like:
+  - **Educational AI tools**
+  - **Human-like reasoning and cryptographic intuition through ML**
+  - **Real-world applications using LLMs & RAG frameworks**
 
 ---
 
 ### 🤝 Looking to Collaborate On
 
-- Cutting-edge **research projects in NLP, CV, and Generative Models**
-- AI systems that **enhance learning experiences** and **simplify complex topics**
-- Projects exploring the intersection of **AI, reasoning, and human decision-making**
+- Research-driven **NLP, CV, or Generative AI** projects
+- Innovative tools that **simplify learning** or **support mental well-being**
+- Projects that combine **LLMs**, **retrieval systems**, or **human-like thinking**
 
 ---
 
