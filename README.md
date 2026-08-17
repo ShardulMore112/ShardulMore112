@@ -1,66 +1,132 @@
-<h1 align="center">Hi there, I'm Shardul 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>AI/ML Student | LLM & NLP Enthusiast | Deep Learning Explorer</em>
+# SHARDUL MORE
+
+### AI/ML Student · Researcher · Builder
+
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML-Research-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-NLP-24292F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-FF6F00?style=for-the-badge"/>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 I'm an AI/ML student deeply passionate about:
-  - **Large Language Models (LLMs)**
-  - **Natural Language Processing (NLP)**
-  - **Generative AI**  
-  - **Deep Learning & Transformers**
-
-- 🧠 I love applying what I learn to build intelligent systems, especially in areas like:
-  - **Educational AI tools**
-  - **Human-like reasoning and cryptographic intuition through ML**
-  - **Real-world applications using LLMs & RAG frameworks**
-
----
-
-### 🤝 Looking to Collaborate On
-
-- Research-driven **NLP, CV, or Generative AI** projects
-- Innovative tools that **simplify learning** or **support mental well-being**
-- Projects that combine **LLMs**, **retrieval systems**, or **human-like thinking**
-
----
-
-### 💼 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-</p>
-
----
-
-### 📫 Contact Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shardul-more-58a475286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://github.com/ShardulMore112">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shardul-more-58a475286/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shardulmore112@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+</div>
+
+---
+
+## `> whoami`
+
+I'm an AI/ML student interested in **how intelligent systems learn, reason, and fail**.
+
+I enjoy working on research-oriented problems involving LLMs, deep learning, NLP, computer vision, and reliable AI systems. Most of my projects start with a simple question, followed by a lot of experiments to see what actually works.
+
+**Research interests**
+
+🔹 `LLMs` · `Reasoning` · `Interpretability`
+🔹 `Hallucination Detection` · `NLP` · `Computer Vision`
+🔹 `Formal Verification` · `AI for Mathematics`
+
+---
+
+## `> research`
+
+### 🟣 Attention Dispersion for Hallucination Detection
+
+Studying whether internal attention patterns can provide useful signals for detecting reasoning failures in language models.
+
+**`AttenTrace`** · `GSM8K` · `MATH-500`
+
+📈 **+0.0759 ROC-AUC** improvement on Qwen2.5-3B
+
+`LLMs` · `Attention` · `Uncertainty` · `Interpretability`
+
+---
+
+### 🔵 Normalized Regional Bias
+
+A framework for studying whether vision models rely disproportionately on particular regions of an image.
+
+📍 **Focus:** regional dependence · spatial shortcuts · model interpretability
+
+`CNNs` · `Vision Transformers` · `Sensitivity Analysis` · `XAI`
+
+---
+
+### 🟢 Lean4 GSM8K Verifier
+
+Exploring how **formal verification** can make LLM-generated mathematical reasoning more reliable.
+
+The system generates Lean4 theorems for reasoning steps, verifies them formally, and uses typed verification errors to automatically repair incorrect generations.
+
+**`84% pass@1`** · **`97% pass@5`** · `GSM8K`
+
+`LLMs` · `Lean4` · `Formal Verification` · `AI for Mathematics`
+
+---
+
+
+
+## `> stack`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,git,github,aws,fastapi"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A67D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+
 </p>
 
 ---
 
-### ⚡ Fun Fact
+<div align="center">
 
-> I believe **every abstract idea** can be transformed into a real, intelligent system — it's just a matter of the right **architecture** and **intent**.
+### `> one_more_thing`
 
-<!---
-ShardulMore112/ShardulMore112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+**I like building things I don't fully understand yet.**
+
+<br>
+
+```text
+ideas → experiments → failures → better questions
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/Always-Learning-6E40C9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Always-Building-24292F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Always-Questioning-FF6F00?style=flat-square"/>
+
+<br><br>
+
+`Research` · `Build` · `Break` · `Understand`
+
+<br><br>
+
+<a href="https://github.com/ShardulMore112">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
