@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ShardulMore112">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=120&pause=1400&color=FFFFFF&center=true&vCenter=true&width=700&height=55&lines=%24+Shardul_More_%3B%24+AI%2FML_Researcher_%3B%24+Turning_Ideas_Into_Systems_" alt="Shardul More"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=120&pause=1400&color=color=00E5FF&center=true&vCenter=true&width=700&height=55&lines=%24+Shardul_More_%3B%24+AI%2FML_Researcher_%3B%24+Turning_Ideas_Into_Systems_" alt="Shardul More"/>
 </a>
 
 <br>
