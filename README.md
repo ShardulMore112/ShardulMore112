@@ -1,25 +1,29 @@
 <div align="center">
 
-# SHARDUL MORE
+<a href="https://github.com/ShardulMore112">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=120&pause=1400&color=FFFFFF&center=true&vCenter=true&width=700&height=55&lines=%24+Shardul_More_%3B%24+AI%2FML_Researcher_%3B%24+Turning_Ideas_Into_Systems_" alt="Shardul More"/>
+</a>
 
-### AI/ML Student · Researcher · Builder
+<br>
+
+<a href="https://github.com/ShardulMore112">
+<img src="https://skillicons.dev/icons?i=github" height="36"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shardul-more-58a475286/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:shardulmore112@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="36"/>
+</a>
+
+<br>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%2FML-Research-6E40C9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-NLP-24292F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-FF6F00?style=for-the-badge"/>
-</p>
-
-<p>
-  <a href="https://github.com/ShardulMore112">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shardul-more-58a475286/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shardulmore112@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/LLMs-RESEARCH-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-TRANSFORMERS-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COMPUTER%20VISION-DEEP%20LEARNING-007ACC?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 </div>
@@ -34,9 +38,9 @@ I enjoy working on research-oriented problems involving LLMs, deep learning, NLP
 
 **Research interests**
 
-🔹 `LLMs` · `Reasoning` · `Interpretability`
-🔹 `Hallucination Detection` · `NLP` · `Computer Vision`
-🔹 `Formal Verification` · `AI for Mathematics`
+`LLMs` · `Reasoning` · `Interpretability` · `Hallucination Detection`
+`NLP` · `Computer Vision` · `Formal Verification` · `AI for Mathematics`
+
 
 ---
 
